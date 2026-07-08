@@ -106,7 +106,9 @@ Tolerancia de Newton | 1e-8
 Máximo de iteraciones | 100
 Factor de relajación | 1.0
 
-Características destacadas
+--------------------------
+
+Características destacadas:
 
 - Solvers de PVI: Euler, Heun y RK4 (seleccionables en los métodos de disparo).
 - Búsqueda de raíces: Bisección y Newton (para disparo no lineal).
@@ -121,6 +123,6 @@ Autor:
 
 Desarrollado por herberflores26-jpg para el curso de Análisis Numérico II.
 
-Licencia
+Licencia:
 
 Este material es de uso educativo y puede ser utilizado libremente con fines académicos. 
