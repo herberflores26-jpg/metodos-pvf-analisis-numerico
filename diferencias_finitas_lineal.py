@@ -1,9 +1,10 @@
 
-
 import math
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
+from sympy import symbols, sympify, lambdify
+import numpy as np
 
 # ============================================================
 # 1. FUNCIONES AUXILIARES PARA LA DISCRETIZACIÓN
